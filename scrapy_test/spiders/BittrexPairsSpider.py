@@ -2,7 +2,7 @@
 import scrapy
 import json
 
-from crypto_data_collection.items import BittrexPairsItem
+from scrapy_test.items import BittrexPairsItem
 
 
 class BinancePairsSpider(scrapy.Spider):
