@@ -1,0 +1,271 @@
+Base_CurrencyLong,Base_currency,Market_Currency,Market_CurrencyLong
+Bitcoin,BTC,LTC,Litecoin
+Bitcoin,BTC,DOGE,Dogecoin
+Bitcoin,BTC,VTC,Vertcoin
+Bitcoin,BTC,PPC,Peercoin
+Bitcoin,BTC,FTC,Feathercoin
+Bitcoin,BTC,RDD,ReddCoin
+Bitcoin,BTC,NXT,NXT
+Bitcoin,BTC,DASH,Dash
+Bitcoin,BTC,POT,PotCoin
+Bitcoin,BTC,BLK,BlackCoin
+Bitcoin,BTC,EMC2,Einsteinium
+Bitcoin,BTC,XMY,Myriad
+Bitcoin,BTC,AUR,AuroraCoin
+Bitcoin,BTC,EFL,ElectronicGulden
+Bitcoin,BTC,GLD,GoldCoin
+Bitcoin,BTC,SLR,SolarCoin
+Bitcoin,BTC,PTC,PesetaCoin 
+Bitcoin,BTC,GRS,Groestlcoin
+Bitcoin,BTC,NLG,Gulden
+Bitcoin,BTC,RBY,RubyCoin
+Bitcoin,BTC,XWC,WhiteCoin
+Bitcoin,BTC,MONA,MonaCoin
+Bitcoin,BTC,THC,HempCoin
+Bitcoin,BTC,ENRG,EnergyCoin
+Bitcoin,BTC,ERC,EuropeCoin
+Bitcoin,BTC,VRC,VeriCoin
+Bitcoin,BTC,CURE,CureCoin
+Bitcoin,BTC,XMR,Monero
+Bitcoin,BTC,CLOAK,CloakCoin
+Bitcoin,BTC,KORE,Kore
+Bitcoin,BTC,XDN,DigitalNote
+Bitcoin,BTC,TRUST,TrustPlus
+Bitcoin,BTC,NAV,NAVCoin
+Bitcoin,BTC,XST,StealthCoin
+Bitcoin,BTC,VIA,ViaCoin 
+Bitcoin,BTC,PINK,PinkCoin
+Bitcoin,BTC,IOC,I/OCoin
+Bitcoin,BTC,CANN,CannabisCoin
+Bitcoin,BTC,SYS,SysCoin
+Bitcoin,BTC,NEOS,NeosCoin
+Bitcoin,BTC,DGB,Digibyte
+Bitcoin,BTC,BURST,BURSTCoin
+Bitcoin,BTC,EXCL,ExclusiveCoin
+Bitcoin,BTC,SWIFT,Bitswift
+Bitcoin,BTC,DOPE,DopeCoin
+Bitcoin,BTC,BLOCK,BlockNet
+Bitcoin,BTC,ABY,ArtByte
+Bitcoin,BTC,BYC,Bytecent
+Bitcoin,BTC,XMG,Magi
+Bitcoin,BTC,BLITZ,Blitzcash
+Bitcoin,BTC,BAY,BitBay
+Bitcoin,BTC,SPR,SpreadCoin
+Bitcoin,BTC,VTR,vTorrent
+Bitcoin,BTC,XRP,Ripple
+Bitcoin,BTC,GAME,GameCredits
+Bitcoin,BTC,COVAL,Circuits of Value
+Bitcoin,BTC,NXS,Nexus
+Bitcoin,BTC,XCP,Counterparty
+Bitcoin,BTC,BITB,BitBean
+Bitcoin,BTC,GEO,GeoCoin
+Bitcoin,BTC,FLDC,FoldingCoin
+Bitcoin,BTC,GRC,GridCoin
+Bitcoin,BTC,FLO,Florin
+Bitcoin,BTC,NBT,Nubits
+Bitcoin,BTC,MUE,MonetaryUnit
+Bitcoin,BTC,XEM,NewEconomyMovement
+Bitcoin,BTC,CLAM,CLAMs
+Bitcoin,BTC,DMD,Diamond
+Bitcoin,BTC,GAM,Gambit
+Bitcoin,BTC,SPHR,Sphere
+Bitcoin,BTC,OK,OkCash
+Bitcoin,BTC,SNRG,Synergy
+Bitcoin,BTC,PKB,ParkByte
+Bitcoin,BTC,AEON,Aeon
+Bitcoin,BTC,ETH,Ethereum
+Bitcoin,BTC,TX,TransferCoin
+Bitcoin,BTC,BCY,BitCrystals
+Bitcoin,BTC,EXP,Expanse
+Bitcoin,BTC,OMNI,OMNI
+Bitcoin,BTC,AMP,AMP
+Bitcoin,BTC,XLM,Lumen
+Tether,USDT,BTC,Bitcoin
+Bitcoin,BTC,RVR,RevolutionVR
+Bitcoin,BTC,EMC,EmerCoin
+Bitcoin,BTC,FCT,Factom
+Bitcoin,BTC,EGC,EverGreenCoin
+Bitcoin,BTC,SLS,SaluS
+Bitcoin,BTC,RADS,Radium
+Bitcoin,BTC,DCR,Decred
+Bitcoin,BTC,BSD,BitSend
+Bitcoin,BTC,XVG,Verge
+Bitcoin,BTC,PIVX,Pivx
+Bitcoin,BTC,XVC,Vcash
+Bitcoin,BTC,MEME,Memetic
+Bitcoin,BTC,STEEM,STEEM
+Bitcoin,BTC,2GIVE,2GIVE
+Bitcoin,BTC,LSK,Lisk
+Bitcoin,BTC,BRK,Breakout
+Bitcoin,BTC,WAVES,Waves
+Bitcoin,BTC,LBC,LBRY Credits
+Bitcoin,BTC,SBD,SteemDollars
+Bitcoin,BTC,BRX,Breakout Stake
+Bitcoin,BTC,ETC,Ethereum Classic
+Ethereum,ETH,ETC,Ethereum Classic
+Bitcoin,BTC,STRAT,Stratis
+Bitcoin,BTC,UNB,UnbreakableCoin
+Bitcoin,BTC,SYNX,Syndicate
+Bitcoin,BTC,EBST,eBoost
+Bitcoin,BTC,VRM,Verium
+Bitcoin,BTC,SEQ,Sequence
+Bitcoin,BTC,REP,Augur
+Bitcoin,BTC,SHIFT,Shift
+Bitcoin,BTC,ARDR,Ardor
+Bitcoin,BTC,XZC,ZCoin
+Bitcoin,BTC,NEO,Neo
+Bitcoin,BTC,ZEC,Zcash
+Bitcoin,BTC,ZCL,Zclassic
+Bitcoin,BTC,IOP,Internet Of People
+Bitcoin,BTC,GOLOS,Golos
+Bitcoin,BTC,UBQ,Ubiq
+Bitcoin,BTC,KMD,Komodo
+Bitcoin,BTC,GBG,GBG
+Bitcoin,BTC,SIB,Siberian Chervonets
+Bitcoin,BTC,ION,Ion
+Bitcoin,BTC,LMC,Lomocoin
+Bitcoin,BTC,QWARK,Qwark
+Bitcoin,BTC,CRW,Crown
+Bitcoin,BTC,SWT,Swarm City Token
+Bitcoin,BTC,MLN,Melon
+Bitcoin,BTC,ARK,Ark
+Bitcoin,BTC,DYN,Dynamic
+Bitcoin,BTC,TKS,Tokes
+Bitcoin,BTC,MUSIC,Musicoin
+Bitcoin,BTC,DTB,Databits
+Bitcoin,BTC,INCNT,Incent
+Bitcoin,BTC,GBYTE,Bytes
+Bitcoin,BTC,GNT,Golem
+Bitcoin,BTC,NXC,Nexium
+Bitcoin,BTC,EDG,Edgeless
+Bitcoin,BTC,LGD,Legends
+Bitcoin,BTC,TRST,Trustcoin
+Ethereum,ETH,GNT,Golem
+Ethereum,ETH,REP,Augur
+Tether,USDT,ETH,Ethereum
+Ethereum,ETH,WINGS,Wings DAO
+Bitcoin,BTC,WINGS,Wings DAO
+Bitcoin,BTC,RLC,iEx.ec
+Bitcoin,BTC,GNO,Gnosis
+Bitcoin,BTC,GUP,Guppy
+Bitcoin,BTC,LUN,Lunyr
+Ethereum,ETH,GUP,Guppy
+Ethereum,ETH,RLC,iEx.ec
+Ethereum,ETH,LUN,Lunyr
+Ethereum,ETH,GNO,Gnosis
+Bitcoin,BTC,HMQ,Humaniq
+Ethereum,ETH,HMQ,Humaniq
+Bitcoin,BTC,ANT,Aragon
+Ethereum,ETH,TRST,Trustcoin
+Ethereum,ETH,ANT,Aragon
+Bitcoin,BTC,SC,Siacoin
+Ethereum,ETH,BAT,Basic Attention Token
+Bitcoin,BTC,BAT,Basic Attention Token
+Bitcoin,BTC,ZEN,Zencash
+Bitcoin,BTC,QRL,Quantum Resistant Ledger
+Ethereum,ETH,QRL,Quantum Resistant Ledger
+Bitcoin,BTC,CRB,CreditBit
+Ethereum,ETH,CRB,CreditBit
+Ethereum,ETH,LGD,Legends
+Bitcoin,BTC,PTOY,Patientory
+Ethereum,ETH,PTOY,Patientory
+Bitcoin,BTC,CFI,Cofound.it
+Ethereum,ETH,CFI,Cofound.it
+Bitcoin,BTC,BNT,Bancor
+Ethereum,ETH,BNT,Bancor
+Bitcoin,BTC,NMR,Numeraire
+Ethereum,ETH,NMR,Numeraire
+Ethereum,ETH,LTC,Litecoin
+Ethereum,ETH,XRP,Ripple
+Bitcoin,BTC,SNT,Status Network Token
+Ethereum,ETH,SNT,Status Network Token
+Bitcoin,BTC,DCT,DECENT
+Bitcoin,BTC,XEL,Elastic
+Bitcoin,BTC,MCO,Monaco
+Ethereum,ETH,MCO,Monaco
+Bitcoin,BTC,ADT,adToken
+Ethereum,ETH,ADT,adToken
+Bitcoin,BTC,PAY,TenX Pay Token
+Ethereum,ETH,PAY,TenX Pay Token
+Bitcoin,BTC,STORJ,Storj
+Ethereum,ETH,STORJ,Storj
+Bitcoin,BTC,ADX,AdEx
+Ethereum,ETH,ADX,AdEx
+Ethereum,ETH,DASH,Dash
+Ethereum,ETH,SC,Siacoin
+Ethereum,ETH,ZEC,ZCash
+Tether,USDT,ZEC,ZCash
+Tether,USDT,LTC,Litecoin
+Tether,USDT,ETC,Ethereum Classic
+Tether,USDT,XRP,Ripple
+Bitcoin,BTC,OMG,OmiseGO
+Ethereum,ETH,OMG,OmiseGO
+Bitcoin,BTC,CVC,Civic
+Ethereum,ETH,CVC,Civic
+Bitcoin,BTC,PART,Particl
+Bitcoin,BTC,QTUM,Qtum
+Ethereum,ETH,QTUM,Qtum
+Ethereum,ETH,XMR,Monero
+Ethereum,ETH,XEM,NewEconomyMovement
+Ethereum,ETH,XLM,Lumen
+Ethereum,ETH,NEO,Neo
+Tether,USDT,XMR,Monero
+Tether,USDT,DASH,Dash
+Ethereum,ETH,BCC,Bitcoin Cash
+Tether,USDT,BCC,Bitcoin Cash
+Bitcoin,BTC,BCC,Bitcoin Cash
+Bitcoin,BTC,DNT,district0x
+Ethereum,ETH,DNT,district0x
+Tether,USDT,NEO,Neo
+Ethereum,ETH,WAVES,Waves
+Ethereum,ETH,STRAT,Stratis
+Ethereum,ETH,DGB,Digibyte
+Ethereum,ETH,FCT,Factom
+Tether,USDT,OMG,OmiseGo
+Bitcoin,BTC,ADA,Ada
+Bitcoin,BTC,MANA,Decentraland
+Ethereum,ETH,MANA,Decentraland
+Bitcoin,BTC,SALT,Salt
+Ethereum,ETH,SALT,Salt
+Bitcoin,BTC,TIX,Blocktix
+Ethereum,ETH,TIX,Blocktix
+Bitcoin,BTC,RCN,Ripio Credit Network
+Ethereum,ETH,RCN,Ripio Credit Network
+Bitcoin,BTC,VIB,Viberate
+Ethereum,ETH,VIB,Viberate
+Bitcoin,BTC,MER,Mercury
+Bitcoin,BTC,POWR,PowerLedger
+Ethereum,ETH,POWR,PowerLedger
+Bitcoin,BTC,BTG,Bitcoin Gold
+Ethereum,ETH,BTG,Bitcoin Gold
+Tether,USDT,BTG,Bitcoin Gold
+Ethereum,ETH,ADA,Ada
+Bitcoin,BTC,ENG,Enigma
+Ethereum,ETH,ENG,Enigma
+Tether,USDT,ADA,Ada
+Tether,USDT,XVG,Verge
+Tether,USDT,NXT,NXT
+Bitcoin,BTC,UKG,UnikoinGold
+Ethereum,ETH,UKG,UnikoinGold
+Bitcoin,BTC,IGNIS,Ignis
+Bitcoin,BTC,SRN,Sirin Token
+Ethereum,ETH,SRN,Sirin Token
+Bitcoin,BTC,WAX,Worldwide Asset Exchange
+Ethereum,ETH,WAX,Worldwide Asset Exchange
+Bitcoin,BTC,ZRX,0x Protocol
+Ethereum,ETH,ZRX,0x Protocol
+Bitcoin,BTC,VEE,BLOCKv
+Ethereum,ETH,VEE,BLOCKv
+Bitcoin,BTC,BCPT,BlockMason Credit Protocol
+Ethereum,ETH,BCPT,BlockMason Credit Protocol
+Bitcoin,BTC,TRX,TRON
+Ethereum,ETH,TRX,TRON
+Bitcoin,BTC,TUSD,TrueUSD
+Bitcoin,BTC,LRC,Loopring
+Ethereum,ETH,LRC,Loopring
+Ethereum,ETH,TUSD,TrueUSD
+Bitcoin,BTC,UP,UpToken
+Ethereum,ETH,UP,UpToken
+Bitcoin,BTC,DMT,DMarket
+Ethereum,ETH,DMT,DMarket
+Tether,USDT,TUSD,TrueUSD
