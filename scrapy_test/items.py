@@ -13,11 +13,11 @@ class ScrapyTestItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 
-class BittrexParisV1Item(scrapy.Item):
-    Market_Currency = scrapy.Field()
-    Base_currency = scrapy.Field()
-    Market_CurrencyLong = scrapy.Field()
-    Base_CurrencyLong = scrapy.Field()
+class BittrexPairsItem(scrapy.Item):
+    base_currency = scrapy.Field()
+    quote_currency = scrapy.Field()
+    base_currency_name = scrapy.Field()
+    quote_currency_name = scrapy.Field()
 
 class BittrexUsdtBtcItem(scrapy.Item):
     Time = scrapy.Field()
